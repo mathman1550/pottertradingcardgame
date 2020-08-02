@@ -1,8 +1,8 @@
 harrypotter_revival	08-02-20
 plugins/harrypotter_revival/bot.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/bot.jpg	9286
-plugins/harrypotter_revival/plugininfo.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/plugininfo.txt	370992
-plugins/harrypotter_revival/setlist.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/setlist.txt	9598
-plugins/harrypotter_revival/sets/carddata.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/carddata.txt	8607578
+plugins/harrypotter_revival/plugininfo.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/plugininfo.txt	371849
+plugins/harrypotter_revival/setlist.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/setlist.txt	11356
+plugins/harrypotter_revival/sets/carddata.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/carddata.txt	10255075
 plugins/harrypotter_revival/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/cardback.jpg	701877
 plugins/harrypotter_revival/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/spawned.jpg	686412
 plugins/harrypotter_revival/decks/percyweasleypotions.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/percyweasleypotions.txt	41210
