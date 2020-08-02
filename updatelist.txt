@@ -1,17 +1,17 @@
-harrypotter	05-30-20
-plugins/harrypotter/bot.jpg	http://pottertradingcardgame.webs.com/bot.jpg	9286
-plugins/harrypotter/plugininfo.txt	http://pottertradingcardgame.webs.com/plugininfo.txt	370992
-plugins/harrypotter/setlist.txt	http://pottertradingcardgame.webs.com/setlist.txt	9598
-plugins/harrypotter/sets/carddata.txt	http://pottertradingcardgame.webs.com/carddata.txt	8607578
-plugins/harrypotter/sets/setimages/general/cardback.jpg	http://pottertradingcardgame.webs.com/cardback.jpg	701877
-plugins/harrypotter/sets/setimages/general/spawned.jpg	http://pottertradingcardgame.webs.com/spawned.jpg	686412
-plugins/harrypotter/decks/percyweasleypotions.txt	http://pottertradingcardgame.webs.com/percyweasleypotions.txt	41210
-plugins/harrypotter/decks/twintrouble.txt	http://pottertradingcardgame.webs.com/twintrouble.txt	36269
-plugins/harrypotter/packs/packdefinitions1.xml	http://pottertradingcardgame.webs.com/packdefinitions1.xml	372237
-plugins/harrypotter/packs/boosterchamber.jpg	http://pottertradingcardgame.webs.com/boosterchamber.jpg	-20265
-plugins/harrypotter/packs/boosteradventures.jpg	http://pottertradingcardgame.webs.com/boosteradventures.jpg	9897
-plugins/harrypotter/packs/boosterbaseset.jpg	http://pottertradingcardgame.webs.com/boosterbaseset.jpg	-8196
-plugins/harrypotter/packs/boosterdiagon.jpg	http://pottertradingcardgame.webs.com/boosterdiagon.jpg	7698
-plugins/harrypotter/packs/boosterquidditch.jpg	http://pottertradingcardgame.webs.com/boosterquidditch.jpg	-5923
+harrypotter_revival	08-02-20
+plugins/harrypotter/bot.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/bot.jpg	9286
+plugins/harrypotter/plugininfo.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/plugininfo.txt	370992
+plugins/harrypotter/setlist.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/setlist.txt	9598
+plugins/harrypotter/sets/carddata.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/carddata.txt	8607578
+plugins/harrypotter/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/cardback.jpg	701877
+plugins/harrypotter/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/spawned.jpg	686412
+plugins/harrypotter/decks/percyweasleypotions.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/percyweasleypotions.txt	41210
+plugins/harrypotter/decks/twintrouble.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/twintrouble.txt	36269
+plugins/harrypotter/packs/packdefinitions1.xml	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/packdefinitions1.xml	372237
+plugins/harrypotter/packs/boosterchamber.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterchamber.jpg	-20265
+plugins/harrypotter/packs/boosteradventures.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosteradventures.jpg	9897
+plugins/harrypotter/packs/boosterbaseset.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterbaseset.jpg	-8196
+plugins/harrypotter/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterdiagon.jpg	7698
+plugins/harrypotter/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterquidditch.jpg	-5923
 CardGeneralURLs:
-http://pottertradingcardgame.webs.com/
+https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/

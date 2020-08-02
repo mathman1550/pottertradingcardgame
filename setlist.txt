@@ -3,9 +3,10 @@ carddata.txt
 
 1
 Standard
-5
+6
 Base_Set
 Quidditch_Cup
 Diagon_Alley
 Adventures_at_Hogwarts
 Chamber_of_Secrets
+Heir_of_Slytherin

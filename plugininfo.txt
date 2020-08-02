@@ -1,9 +1,9 @@
 <plugin>
 
-<pluginversion>2.1</pluginversion>
+<pluginversion>2.2</pluginversion>
 
 
-<pluginname>harrypotter</pluginname>
+<pluginname>harrypotter_revival</pluginname>
 
 
 
