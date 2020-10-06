@@ -1,10 +1,14 @@
-harrypotter_revival	08-02-20
+harrypotter_revival	10-05-20
 plugins/harrypotter_revival/bot.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/bot.jpg	9286
 plugins/harrypotter_revival/plugininfo.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/plugininfo.txt	371849
 plugins/harrypotter_revival/setlist.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/setlist.txt	11356
 plugins/harrypotter_revival/sets/carddata.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/carddata.txt	10218910
 plugins/harrypotter_revival/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/cardback.jpg	701877
 plugins/harrypotter_revival/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/spawned.jpg	686412
+plugins/harrypotter_revival/decks/Base_Starter_Deck_Draco.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/Base_Starter_Deck_Draco.txt	15413
+plugins/harrypotter_revival/decks/Base_Starter_Deck_Hermione.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/Base_Starter_Deck_Hermione.txt	16547
+plugins/harrypotter_revival/decks/Diagon_Alley_Starter_Deck_Draco.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/Diagon_Alley_Starter_Deck_Draco.txt	15575
+plugins/harrypotter_revival/decks/Diagon_Alley_Starter_Deck_Hermione.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/Diagon_Alley_Starter_Deck_Hermione.txt	16161
 plugins/harrypotter_revival/decks/percyweasleypotions.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/percyweasleypotions.txt	41210
 plugins/harrypotter_revival/decks/twintrouble.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/twintrouble.txt	36269
 plugins/harrypotter_revival/packs/packdefinitions1.xml	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/packdefinitions1.xml	372237

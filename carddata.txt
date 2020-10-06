@@ -148,7 +148,7 @@ Flacking	Chamber_of_Secrets	Flacking	Spell	3Q			C		Quidditch	Do 2 damage to your
 Flipendo	Diagon_Alley	Flipendo	Spell	2C			C		Charms	Do 2 damage to your opponent or to a Creature of your choice.
 Floo Powder	Chamber_of_Secrets	Floo_Powder	Spell	2T			U		Transfiguration	Search your deck. You may take a Location card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.
 Flourish and Blotts	Diagon_Alley	Flourish_and_Blotts	Location	3T			R	Unique	Transfiguration	When you play this card, discard any other Location from play (yours or your opponent's). Either player may use an Action and discard 2 of his or her Lessons from play to draw 5 cards.
-Fluffly Falls Asleep	Base_Set	Fluffly_Falls_Asleep	Spell	3F			C		Creatures	Choose a Creature in play and return it to its owner's hand.
+Fluffy Falls Asleep	Base_Set	Fluffy_Falls_Asleep	Spell	3F			C		Creatures	Choose a Creature in play and return it to its owner's hand.
 Fluffy	Quidditch_Cup	Fluffy	Creature - Dog	10F	12	21	R	Unique	Creatures	To play this card, discard 2 of your [F] Lessons from play.
 Flying Car	Chamber_of_Secrets	Flying_Car	Item	8C			R		Charms	You may use an Action to choose an Adventure or a Location in play and discard it. (If you discard an Adventure, you don't get the reward.)
 Flying Laps	Chamber_of_Secrets	Flying_Laps	Spell	10Q			R		Quidditch	Count the number of Lessons you have in play. Do that much damage to your opponent. Then draw that many cards.

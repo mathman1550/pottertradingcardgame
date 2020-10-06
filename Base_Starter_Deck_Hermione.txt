@@ -1,0 +1,12 @@
+12	Care of Magical Creatures
+7	Transfiguration
+2	Avifors
+4	Curious Raven
+2	Epoximise
+3	Forest Troll
+2	Hagrid and the Stranger
+3	Incarcifors
+2	Take Root
+3	Vicious Wolf
+Starting:
+1	Hermione Granger
