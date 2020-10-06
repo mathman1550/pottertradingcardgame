@@ -1,0 +1,13 @@
+10	Care of Magical Creatures
+9	Transfiguration
+2	Avifors
+2	Epoximise
+2	Incarcifors
+2	Homework
+2	Take Root
+4	Boa Constrictor
+4	Surly Hound
+2	Cunning Fox
+1	Norbert
+Starting:
+1	Draco Malfoy

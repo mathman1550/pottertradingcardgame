@@ -1,0 +1,13 @@
+10	Care of Magical Creatures
+9	Charms
+4	Freeze!
+2	Blue Wig
+2	Bluebell Flames
+2	Out of the Woods
+2	Quintaped
+1	River Troll
+4	Scottish Stag
+2	Fluffy Falls Asleep
+2	Swarm!
+Starting:
+1	Hermione Granger

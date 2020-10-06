@@ -1,0 +1,12 @@
+10	Care of Magical Creatures
+9	Charms
+2	Accio
+2	Boa Constrictor
+3	Curious Raven
+2	Hagrid and the Stranger
+4	Magical Mishap
+2	Stupefy
+2	Surly Hound
+4	Vermillious
+Starting:
+1	Draco Malfoy
