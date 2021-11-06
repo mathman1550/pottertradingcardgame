@@ -1,4 +1,4 @@
-harrypotter_revival	08-02-20
+harrypotter_revival	11-06-21
 plugins/harrypotter_revival/bot.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/bot.jpg	9286
 plugins/harrypotter_revival/plugininfo.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/plugininfo.txt	375633
 plugins/harrypotter_revival/setlist.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/setlist.txt	13306
@@ -13,6 +13,6 @@ plugins/harrypotter_revival/packs/boosteradventures.jpg	https://raw.githubuserco
 plugins/harrypotter_revival/packs/boosterbaseset.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterbaseset.jpg	-8196
 plugins/harrypotter_revival/packs/boosterdiagon.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterdiagon.jpg	7698
 plugins/harrypotter_revival/packs/boosterquidditch.jpg	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/boosterquidditch.jpg	-5923
-plugins/harrypotter_revival/version.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/version.txt	34178
+plugins/harrypotter_revival/version.txt	https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/version.txt	34179
 CardGeneralURLs:
 https://raw.githubusercontent.com/mathman1550/pottertradingcardgame/master/
